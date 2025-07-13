@@ -1,0 +1,207 @@
+﻿id;il_kod;province;universities__name;universities__phone;universities__fax;universities__website;universities__email;universities__adress;universities__rector
+1;1;ADANA;ADANA BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ;0 (322) 455 00 01;0 (322) 455 00 02;http://www.adanabtu.edu.tr;rektorluk@adanabtu.edu.tr;Gültepe Mahallesi, Çatalan Caddesi No:201/5 01250 Sarıçam/ADANA;MEHMET TÜMAY
+2;1;ADANA;ÇUKUROVA ÜNİVERSİTESİ;0 (322) 338 60 84;0 (322) 338 69 45;www.cu.edu.tr;genel-sekreter@cu.edu.tr;Çukurova Üniversitesi Rektörlüğü 01330 Balcalı, Sarıçam / ADANA;MUSTAFA KİBAR
+3;2;ADIYAMAN;ADIYAMAN ÜNİVERSİTESİ;0 (416) 223 38 40;0 (416) 223 38 43;http://www.adiyaman.edu.tr/;bidb@adiyaman.edu.tr;Altınşehir Mh. 3005 Sokak No:13 02040 / ADIYAMAN;MUSTAFA TALHA GÖNÜLLÜ
+4;3;AFYONKARAHİSAR;AFYON KOCATEPE ÜNİVERSİTESİ;0 (272) 444 03 03;0 (272) 228 14 01;http://www.aku.edu.tr;ozkalem@aku.edu.tr;Afyon Kocatepe Üniversitesi Rektörlüğü ANS Kampusü Gazlıgöl Yolu Üzeri;MUSTAFA SOLAK
+5;3;AFYONKARAHİSAR;AFYONKARAHİSAR SAĞLIK BİLİMLERİ ÜNİVERSİTESİ;-;-;-;-;-;-
+6;4;AĞRI;AĞRI İBRAHİM ÇEÇEN ÜNİVERSİTESİ;0 (472) 216 20 08;0 (472) 215 11 82;http://www.agri.edu.tr;gensek@agri.edu.tr;Erzurum yolu  4 km 04100 Merkez / AĞRI;ABDULHALİK KARABULUT
+7;5;AMASYA;AMASYA ÜNİVERSİTESİ;0 (358) 211 50 05;0 (358) 218 01 04;http://www.amasya.edu.tr;webadmin@amasya.edu.tr;Akbilek Mah. Hakimiyet cad. No:4/3 PK: 05100 Merkez/AMASYA;METİN ORBAY
+8;6;ANKARA;ANKA TEKNOLOJİ ÜNİVERSİTESİ;-;-;-;-;-;MEHMET ÇELİK
+9;6;ANKARA;ANKARA HACI BAYRAM VELİ ÜNİVERSİTESİ;-;-;-;-;-;-
+10;6;ANKARA;ANKARA MEDİPOL ÜNİVERSİTESİ;-;-;-;-;-;-
+11;6;ANKARA;ANKARA MÜZİK VE GÜZEL SANATLAR ÜNİVERSİTESİ;-;-;-;-;-;-
+12;6;ANKARA;ANKARA SOSYAL BİLİMLER ÜNİVERSİTESİ;0 (312) 596 44 44;0 (312) 596 44 24;http://www.asbu.edu.tr/;bilgi@asbu.edu.tr;Hükümet Meydanı No: 2 Ulus/ANKARA;MEHMET BARCA
+13;6;ANKARA;ANKARA ÜNİVERSİTESİ;0 (312) 223 43 61;0 (312) 223 63 70;http://www.ankara.edu.tr;ankara@ankara.edu.tr;Ankara Üniversitesi Rektörlüğü Tandoğan/ANKARA;ERKAN İBİŞ
+14;6;ANKARA;ANKARA YILDIRIM BEYAZIT ÜNİVERSİTESİ;0 (312) 324 15 55;0 (312) 324 15 05;www.ybu.edu.tr;destek@ybu.edu.tr;Ankara Yıldırım Beyazıt Üniversitesi Esenboğa Külliyesi Esenboğa/Ankara;METİN DOĞAN
+15;6;ANKARA;ATILIM ÜNİVERSİTESİ;0 (312) 586 82 00;0 (312) 586 80 91;www.atilim.edu.tr;atilimrektorluk@atilim.edu.tr;Atılım Üniversitesi Kızılcaşar Mah. İncek Kampüsü Gölbaşı/İncek/ANKARA;MEHMET YILDIRIM ÜÇTUĞ
+16;6;ANKARA;BAŞKENT ÜNİVERSİTESİ;0 (312) 246 66 66;0 (312) 246 67 56;http://www.baskent.edu.tr;rektorlk@baskent.edu.tr;Başkent Üniversitesi Bağlıca Kampusu Eskişehir Yolu 20. Km Etimesgut/Ankara;ALİ HABERAL
+17;6;ANKARA;ÇANKAYA ÜNİVERSİTESİ;0 (312) 233 10 00 - 0 (312) 284 45 00;0 (312) 233 10 29 - 0(312) 286 40 78;http://www.cankaya.edu.tr/;webadmin@cankaya.edu.tr;Çankaya Üniversitesi  Merkez Kampüs : Eskişehir Yolu 29. Km Yukarıyurtçu Mahallesi, Mimar Sinan Caddesi No:4, 06790, Etimesgut / ANKARA;HAMDİ MOLLAMAHMUTOĞLU
+18;6;ANKARA;GAZİ ÜNİVERSİTESİ;0 (312) 212 68 40 - 0 (312) 202 20 00;0 (312) 221 32 02;http://gazi.edu.tr/;.@gazi.edu.tr;Gazi Üniversitesi Rektörlüğü 06500 Teknikokullar / Ankara;İBRAHİM USLAN
+19;6;ANKARA;HACETTEPE ÜNİVERSİTESİ;0 (312) 305 10 01;0 (312) 310 40 51;http://hacettepe.edu.tr;ozelkalem@hacettepe.edu.tr;Hacettepe Üniversitesi Rektörlüğü Sıhhıye/ANKARA;ABDURRAHİM HALUK ÖZEN
+20;6;ANKARA;İHSAN DOĞRAMACI BİLKENT ÜNİVERSİTESİ;0 (312) 266 41 20;0 (312) 266 41 27;http://www.bilkent.edu.tr/;bilinfo@bilkent.edu.tr;BİLKENT ÜNİVERSİTESİ 06800 BİLKENT/ANKARA;ABDULLAH ATALAR
+21;6;ANKARA;LOKMAN HEKİM ÜNİVERSİTESİ;-;-;-;-;-;-
+22;6;ANKARA;ORTA DOĞU TEKNİK ÜNİVERSİTESİ;0 (312) 210 11 00;210 11 05;http://www.metu.edu.tr;gensek@metu.edu.tr;Orta Doğu Teknik Üniversitesi Üniversiteler Mah.Dumlupınar Blv.No:1 06800 Çankaya Ankara/TÜRKİYE;MUSTAFA VERŞAN KÖK
+23;6;ANKARA;OSTİM TEKNİK ÜNİVERSİTESİ;-;-;-;-;-;-
+24;6;ANKARA;TED ÜNİVERSİTESİ;0 (312) 418 41 47;0 (312) 418 41 48;http://www.tedu.edu.tr;info@tedu.edu.tr;TED Üniversitesi, Ziya Gökalp Caddesi No.48 06420, Kolej Çankaya ANKARA;HALİSE BELGİN AYVAŞIK
+25;6;ANKARA;TOBB EKONOMİ VE TEKNOLOJİ ÜNİVERSİTESİ;0 (312) 292 40 05;0 (312) 292 40 99;www.etu.edu.tr;bilgi@etu.edu.tr;SÖĞÜTÖZÜ CADDESİ NO:43 ÇANKAYA/ANKARA;ADEM ŞAHİN
+26;6;ANKARA;TÜRK HAVA KURUMU ÜNİVERSİTESİ;0 (312) 444 84 58;0 (312) 342 84 60;http://www.thk.edu.tr;rektor@thk.edu.tr;Bahçekapı Mahallesi Okul Sokak No:11 Etimesgut / ANKARA;AHMET ERMAN AKBULUT
+27;6;ANKARA;UFUK ÜNİVERSİTESİ;0 (3125) 86 70 41;0 (312) 586 71 24;http://www.ufuk.edu.tr;ozelkalem@ufuk.edu.tr;Ufuk Üniversitesi Rektörlüğü  Kızılcaşar Mahallesi İncek Bulvarı 06836 İncek/Gölbaşı/ANKARA;TEVFİK TEZCANER
+28;6;ANKARA;YÜKSEK İHTİSAS ÜNİVERSİTESİ;0 (312) 286 36 01;0 (312) 286 36 05;http://yiu.edu.tr;yiu@yiu.edu.tr;Oğuzlar Mahallesi 1377 Sokak No:21 Balgat ANKARA;RABET GÖZİL
+29;7;ANTALYA;AKDENİZ ÜNİVERSİTESİ;0 (242) 227 44 00;0 (242) 227 49 58;http://www.akdeniz.edu.tr;info@akdeniz.edu.tr;Akdeniz Üniversitesi Kampüs Antalya;MUSTAFA ÜNAL
+30;7;ANTALYA;ALANYA ALAADDİN KEYKUBAT ÜNİVERSİTESİ;0 (242) 510 60 60;0 (242) 518 11 99;http://www.alanya.edu.tr/;alku@alanya.edu.tr;Kestel Mahallesi Alanya Alaaddin Keykubat Üniversitesi Kampüsü Alanya/ANTALYA;AHMET PINARBAŞI
+31;7;ANTALYA;ALANYA HAMDULLAH EMİN PAŞA ÜNİVERSİTESİ;0 (242) 513 69 69;0 (242) 513 69 66;http://www.ahep.edu.tr;info@ahep.edu.tr;Cikcilli Beldesi, Saraybeleni Mahallesi, Saraybeleni Cad. No:7, PK 80 07400, Alanya, ANTALYA;MEHMET DURDU ÖNER
+32;7;ANTALYA;ANTALYA AKEV ÜNİVERSİTESİ;0 (242) 444 12 64;0 (242) 777 10 41;www.akev.edu.tr;h.aktas@akev.edu.tr;Kadriye Mah. Celal Bayar Cad. No:5-6 Serik/ANTALYA;MEHMET UFUK TUTAN
+33;7;ANTALYA;ANTALYA BİLİM ÜNİVERSİTESİ;0 (242) 245 00 00;0 (242) 245 01 00;http://www.antalya.edu.tr/;info@antalya.edu.tr;Farabi Cad. No:2 Döşemealtı / ANTALYA;İSMAİL YÜKSEK
+34;8;ARTVİN;ARTVİN ÇORUH ÜNİVERSİTESİ;0 (466) 215 10 10;0 (466) 215 10 11;http://www.artvin.edu.tr;artvin@artvin.edu.tr;Artvin Çoruh Üniversitesi Rektörlüğü Fidanlık Mah.Kapı Nu.110 08000 Seyitler Yerleşkesi-ARTVİN;FAHRETTİN TİLKİ
+35;9;AYDIN;AYDIN ADNAN MENDERES ÜNİVERSİTESİ;0 (256) 218 20 30;0 (256) 214 66 88;http://www.adu.edu.tr;ozelkalem@adu.edu.tr;AYTEPE MEVKİ AYDIN;CAVİT BİRCAN
+36;10;BALIKESİR;BALIKESİR ÜNİVERSİTESİ;0 (266) 612 14 00;0 (266) 612 14 12;http://www.balikesir.edu.tr/;bau@balikesir.edu.tr;Çağış Yerleşkesi. Bigadiç Yolu 17. Km. BALIKESİR;KERİM ÖZDEMİR
+37;10;BALIKESİR;BANDIRMA ONYEDİ EYLÜL ÜNİVERSİTESİ;0 (266) 717 01 17;0 (266) 717 00 30;http://www.bandirma.edu.tr;rektorluk@bandirma.edu.tr;Yeni Mh. Şehit Astsubay Mustafa Soner Varlık Cd. No:77 Bandırma/BALIKESİR;SÜLEYMAN ÖZDEMİR
+38;11;BİLECİK;BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ;0 (228) 214 11 11;0 (228) 214 10 17;http://www.bilecik.edu.tr/;genelsekreterlik@bilecik.edu.tr;Bilecik Şeyh Edebali Üniversitesi Rektörlüğü 11210 Merkez Bilecik;İBRAHİM TAŞ
+39;12;BİNGÖL;BİNGÖL ÜNİVERSİTESİ;0 (426) 216 00 12-15;0 (426) 215 10 20;http://www.bingol.edu.tr;ozelkalem@bingol.edu.tr;Selahaddin-i Eyyübi Mah. Aydınlık Cad. No:1 BİNGÖL;İBRAHİM ÇAPAK
+40;13;BİTLİS;BİTLİS EREN ÜNİVERSİTESİ;0 (434) 222 00 00;0 (434) 222 01 01;http://www.beu.edu.tr/Default.aspx;info@beu.edu.tr;Beş Minare Mah. Rahva Yerleşkesi - Bitlis;ERDAL YARDIM
+41;14;BOLU;BOLU ABANT İZZET BAYSAL ÜNİVERSİTESİ;0 (374) 254 10 00;0 (374) 253 45 06;http://www.ibu.edu.tr/;bilgi@ibu.edu.tr;Abant İzzet Baysal Üniversitesi Gölköy Kampüsü 14280 BOLU;MUSTAFA ALİŞARLI
+42;15;BURDUR;BURDUR MEHMET AKİF ERSOY ÜNİVERSİTESİ;0 (248) 213 10 00;0 (248) 212 27 18;http://www.mehmetakif.edu.tr;rektorluk@mehmetakif.edu.t r;İstiklal Yerleşkesi BURDUR;ADEM KORKMAZ
+43;16;BURSA;BURSA TEKNİK ÜNİVERSİTESİ;0 (224) 300 33 04;0 (224) 300 33 29;http://btu.edu.tr/;ozelkalem@btu.edu.tr;Mimar Sinan Mahallesi Mimar Sinan Bulvarı Eflak Caddesi No:177 16310 Yıldırım/BURSA;ARİF KARADEMİR
+44;16;BURSA;BURSA ULUDAĞ ÜNİVERSİTESİ;0 (224) 294 00 00;0 (224) 294 00 37;http://www.uludag.edu.tr/;ozelkalem@uludag.edu.tr;Görükle Kampusu 16059 Nilüfer/BURSA;YUSUF ULCAY
+45;16;BURSA;FARUK SARAÇ TASARIM MESLEK YÜKSEKOKULU;0 (224) 220 54 54;0 (224) 223 27 31;http://www.faruksarac.edu.tr;info@faruksarac.edu.tr;Kocanaip Mah. Kaplıca Cad. No:3 16060 Muradiye;-
+46;17;ÇANAKKALE;ÇANAKKALE ONSEKİZ MART ÜNİVERSİTESİ;0 (286) 218 06 07;0 (286) 218 06 08;www.comu.edu.tr;ozelkalem@comu.edu.tr;Çanakkale Onsekiz Mart Üniversitesi, Terzioğlu Kampüsü, Rektörlük Binası , A Blok  Merkez/ÇANAKKALE;YÜCEL ACER
+47;18;ÇANKIRI;ÇANKIRI KARATEKİN ÜNİVERSİTESİ;0 (376) 218 95 00;0 (376) 218 95 09;www.karatekin.edu.tr;cku@karatekin.edu.tr;Uluyazı Kampüsü Binası / Çankırı;HASAN AYRANCI
+48;19;ÇORUM;HİTİT ÜNİVERSİTESİ;0 (364) 219 19 19;0 (364) 219 19 38;http://www.hitit.edu.tr/;rektorluk@hitit.edu.tr;Hitit Üniversitesi Kuzey Kampüsü Çevre Yolu Bulvarı PK:19030 ÇORUM;REHA METİN ALKAN
+49;20;DENİZLİ;PAMUKKALE ÜNİVERSİTESİ;0 (258) 296 20 20;0 (258) 296 23 33;http://www.pau.edu.tr;ozelkalem@pau.edu.tr;Pamukkale Üniversitesi Rektörlüğü Kınıklı Yerleşkesi 20070 DENİZLİ;HÜSEYİN BAĞ
+50;21;DİYARBAKIR;DİCLE ÜNİVERSİTESİ;0 (412) 241 10 01;0 (412) 241 10 59;www.dicle.edu.tr;gensek@dicle.edu.tr;21280 Kıtılbil Mahallesi Sur / Diyarbakır;TALİP GÜL
+51;22;EDİRNE;TRAKYA ÜNİVERSİTESİ;0 (284) 223 42 10-11-12;0 (284) 22 342 03;http://www.trakya.edu.tr/;genelsekreterlik@trakya.edu.tr;Trakya Üniversitesi Rektörlüğü 22030 Balkan Yerleşkesi / EDİRNE;ERHAN TABAKOĞLU
+52;23;ELAZIĞ;FIRAT ÜNİVERSİTESİ;0 (424) 212 85 10;0 (424) 212 27 17;http://www.firat.edu.tr/;okalem@firat.edu.tr;Fırat Üniversitesi Rektörlüğü 23119 ELAZIĞ;KUTBEDDİN DEMİRDAĞ
+53;24;ERZİNCAN;ERZİNCAN BİNALİ YILDIRIM ÜNİVERSİTESİ;0 (444) 226 66 66;0 (446) 226 66 65;http://www.erzincan.edu.tr;rektorluk@erzincan.edu.tr;Fatih Mahallesi Erzincan Üniversitesi Rektörlüğü - Erzincan/Merkez;İLYAS ÇAPOĞLU
+54;25;ERZURUM;ATATÜRK ÜNİVERSİTESİ;442 231 10 01;442 236 10 14;http://www.atauni.edu.tr;ata@atauni.edu.tr;Atatürk Üniversitesi Rektörlüğü Yakutiye/Erzurum;ÖMER ÇOMAKLI
+55;25;ERZURUM;ERZURUM TEKNİK ÜNİVERSİTESİ;0 (442) 666 25 25;0 (442) 666 25 32;http://www.erzurum.edu.tr/;bilgi@erzurum.edu.tr;ERZURUM TEKNİK ÜNİVERSİTESİ Ömer Nasuhi Bilmen Mah. Havaalanı Yolu Cad. No:53 YAKUTİYE/ERZURUM;MUAMMER YAYLALI
+56;26;ESKİŞEHİR;ANADOLU ÜNİVERSİTESİ;0 (222) 335 05 81;0 (222) 335 36 16;http://www.anadolu.edu.tr/;gensek@anadolu.edu.tr;Anadolu Üniversitesi Yunus Emre Kampusü, 26470 Tepebaşı/ESKİŞEHİR;-
+57;26;ESKİŞEHİR;ESKİŞEHİR OSMANGAZİ ÜNİVERSİTESİ;0 (222) 239 71 48;0 (222) 239 54 00;http://www.ogu.edu.tr;rektor@ogu.edu.tr;Eskişehir Osmangazi Üniversitesi Meşelik Yerleşkesi 26480 Eskişehir;KEMAL ŞENOCAK
+58;26;ESKİŞEHİR;ESKİŞEHİR TEKNİK ÜNİVERSİTESİ;-;-;-;-;-;-
+59;27;GAZİANTEP;GAZİANTEP BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ;-;-;-;-;-;-
+60;27;GAZİANTEP;GAZİANTEP ÜNİVERSİTESİ;0 (342) 360 10 10;0 (342) 360 43 77;http://www.gantep.edu.tr;reksek@gantep.edu.tr;GAZİANTEP ÜNİVERSİTESİ REKTÖRLÜĞÜ;ALİ GÜR
+61;27;GAZİANTEP;HASAN KALYONCU ÜNİVERSİTESİ;0 (342) 211 80 80;0 (342) 211 80 81;www.hku.edu.tr;info@hku.edu.tr;Havalimanı Yolu üzeri 8.km Şahinbey/GAZİANTEP;TAMER YILMAZ
+62;27;GAZİANTEP;SANKO ÜNİVERSİTESİ;0 (342) 211 65 00;0 (342) 211 65 05;http://www.sanko.edu.tr;info@sanko.edu.tr;İncilipınar Mah. Gazi Muhtar Paşa Bulv. No:36 27090 Şehitkamil/ GAZİANTEP;GÜNER DAĞLI
+63;28;GİRESUN;GİRESUN ÜNİVERSİTESİ;0 (454) 310 10 00;0 (454) 310 10 16;http://www.giresun.edu.tr/;rektor@giresun.edu.tr;Giresun Üniversitesi | Giresun;CEVDET COŞKUN
+64;29;GÜMÜŞHANE;GÜMÜŞHANE ÜNİVERSİTESİ;0 (456) 233 10 00;0 (456) 233 11 19;http://www.gumushane.edu.tr;gumushane@gumushane.edu.tr;Gümüşhane Üniversitesi Rektörlüğü Bağlarbaşı Mh.;HALİL İBRAHİM ZEYBEK
+65;30;HAKKARİ;HAKKARİ ÜNİVERSİTESİ;0 (438) 212 12 12;0 (438) 212 12 11;www.hakkari.edu.tr / www.hu.edu.tr;rektorluk@hakkari.edu.tr;Merzan Mah. Küçük Sanayi Sitesi arkası Merkez/HAKKARİ;ÖMER PAKİŞ
+66;31;HATAY;HATAY MUSTAFA KEMAL ÜNİVERSİTESİ;0 (326) 221 33 17 - 18 - 19;0 (326) 221 33 20;http://www.mku.edu.tr;rektorlukyaziisleri@mku.edu.tr;Alahan Tayfur Sökmen Kampüsü Dış kapı no:35 Adres No:3330417886 Alahan/Antakya/Hatay;HASAN KAYA
+67;31;HATAY;İSKENDERUN TEKNİK ÜNİVERSİTESİ;0 (326) 613 56 00;0 (326) 613 56 13;www.iste.edu.tr;ofis@iste.edu.tr;İskenderun Teknik Üniversitesi Rektörlüğü Merkez Kampüs 31200 İskenderun/HATAY;TÜRKAY DERELİ
+68;32;ISPARTA;ISPARTA UYGULAMALI BİLİMLER ÜNİVERSİTESİ;-;-;-;-;-;-
+69;32;ISPARTA;SÜLEYMAN DEMİREL ÜNİVERSİTESİ;0 (246) 211 10 00;0 (246) 237 04 31;http://www.sdu.edu.tr/;bidb@sdu.edu.tr;Süleyman Demirel Üniversitesi Batı Yerleşkesi Rektörlük Binası 32260  Çünür / ISPARTA;İLKER HÜSEYİN ÇARIKÇI
+70;33;MERSİN;ÇAĞ ÜNİVERSİTESİ;0 (324) 651 48 00;0 (324) 651 48 11;http://www.cag.edu.tr/;cag@cag.edu.tr;Adana-Mersin D 400 Karayolu Üzeri 33800 Yenice-Tarsus/MERSİN;ÜNAL AY
+71;33;MERSİN;MERSİN ÜNİVERSİTESİ;0 (324) 361 00 01-13001-13003;0 (324) 361 00 22;http://www.mersin.edu.tr/idari/ozel-kalem-;ozelkalem@mersin.edu.tr;Mersin Üniversitesi Çiftlikköy Kampusu Rektörlük Binası 33343 Yenişehir/MERSİN;AHMET ÇAMSARI
+72;33;MERSİN;TARSUS ÜNİVERSİTESİ;-;-;-;-;-;-
+73;33;MERSİN;TOROS ÜNİVERSİTESİ;0 (324) 325 33 00;0 (324) 325 33 01;www.toros.edu.tr;rektorluk@toros.edu.tr;Bahçelievler Kampüsü 1857 Sokak No:12 33140 Yenişehir MERSİN;HALUK KORKMAZYÜREK
+74;34;İSTANBUL;ACIBADEM MEHMET ALİ AYDINLAR ÜNİVERSİTESİ;0 (216) 500 44 44;0 (216) 577 50 48;http://www.acibadem.edu.tr;info@acibadem.edu.tr;İçerenköy Mah. Kayışdağı Cad. No:32 İçerenköy 34752 Ataşehir İstanbul;AHMET ŞAHİN
+75;34;İSTANBUL;ALTINBAŞ ÜNİVERSİTESİ;0 (212) 604 01 00;0 (212) 445 92 55;http://www.altinbas.edu.tr/tr;ik@altinbas.edu.tr;Mahmutbey, Dİlmenler Cd. No. 26 Bağcılar, İstanbul;ÇAĞRI ERHAN
+76;34;İSTANBUL;ATAŞEHİR ADIGÜZEL MESLEK YÜKSEKOKULU;0 (216) 455 77 70-74;0 (216) 548 28 17;http://www.adiguzel.edu.tr/;iletisim@adiguzel.edu.tr;Yenişehir Mahallesi Barajyolu Caddesi Çağlayan Sokak No:18 Ataşehir / İstanbul;-
+77;34;İSTANBUL;AVRUPA MESLEK YÜKSEKOKULU;0 (850) 450 28 28;0 (212) 547 00 68;www.avrupa.edu.tr;ozelkalem@avrupa.edu.tr;Ahmet Haşim Sokak 5/1 Kazlıçeşme-Zeytinburnu/İSTANBUL;-
+78;34;İSTANBUL;BAHÇEŞEHİR ÜNİVERSİTESİ;0 (212) 381 00 00;0 (212) 381 00 20;http://www.bahcesehir.edu.tr;info@bahcesehir.edu.tr;Çırağan Caddesi Osmanpaşa Mektebi Sokak No: 4-6 3453 Beşiktaş, İSTANBUL / TÜRKİYE;ŞENAY YALÇIN
+79;34;İSTANBUL;BEYKENT ÜNİVERSİTESİ;0 (212) 444 19 97 - 2002;0 (212) 289 64 87;www.beykent.edu.tr;ozelkalem@beykent.edu.tr;Ayazağa Mahallesi, Hadım Koru Yolu Caddesi, No:19 Sarıyer/İSTANBUL;MEHMET EMİN KARAHAN
+80;34;İSTANBUL;BEYKOZ ÜNİVERSİTESİ;444 25 69;0 (216) 413 95 20;www.beykoz.edu.tr;bilgi@beykoz.edu.tr;Vatan Cad. No: 69 Kavacık Beykoz İstanbul;MEHMET DURMAN
+81;34;İSTANBUL;BEZM-İ ÂLEM VAKIF ÜNİVERSİTESİ;0 (212) 523 22 88;0 (212) 621 75 78;http://www.bezmialem.edu.tr/;info@bezmialem.edu.tr;Adnan Menderes Bulvarı Vatan Cad. 34093 Fatih/İSTANBUL;RÜMEYZA KAZANCIOĞLU
+82;34;İSTANBUL;BİRUNİ ÜNİVERSİTESİ;444 82 76;0 (212) 416 46 46;http://www.biruni.edu.tr/;info@biruni.edu.tr;10. Yıl Caddesi Protokol Yolu No: 45 (Eski Kozlu Mezarlığı altı, Silivrikapı ve Belgratkapı İett durakları arası) 34010 Topkapı İstanbul;ADNAN YÜKSEL
+83;34;İSTANBUL;BOĞAZİÇİ ÜNİVERSİTESİ;0 (212) 359 54 00;0 (212) 265 63 57;http://www.boun.edu.tr;kurumsaliletisim@boun.edu.tr;Boğaziçi Üniversitesi 34342 Bebek/Istanbul Türkiye;MEHMED ÖZKAN
+84;34;İSTANBUL;DOĞUŞ ÜNİVERSİTESİ;444 79 97;0 (216) 327 96 31;http://www.dogus.edu.tr;rektor@dogus.edu.tr;Doğuş Üniversitesi Zeamet sk. 34722 Kadıköy/İstanbul;ABDULLAH DİÇKOL
+85;34;İSTANBUL;FATİH SULTAN MEHMET VAKIF ÜNİVERSİTESİ;0 (212) 521 81 00;0 (212) 521 84 84;www.fsm.edu.tr;fsm@fsm.edu.tr;Zeyrek Mah. Büyük karaman Cad. No:53 FATİH/ İSTANBUL;MUSA DUMAN
+86;34;İSTANBUL;FENERBAHÇE ÜNİVERSİTESİ;-;-;-;-;-;-
+87;34;İSTANBUL;GALATASARAY ÜNİVERSİTESİ;0 (212) 227 44 80;0 (212) 259 23 32;http://www.gsu.edu.tr;info@gsu.edu.tr;Galatasaray Üniversitesi Çırağan Cad. No:36 34349 Ortaköy/İstanbul;EYÜP ERTUĞRUL KARSAK
+88;34;İSTANBUL;HALİÇ ÜNİVERSİTESİ;0 (212) 924 24 44;0 (212) 999 78 52;www.halic.edu.tr;ibrahimyeter@halic.edu.tr;Sütlüce Mahallesi, İmrahor Caddesi, No:11, Beyoğlu, istanbul;ABDURRAHMAN EREN
+89;34;İSTANBUL;IŞIK ÜNİVERSİTESİ;0 (216) 528 70 14;0 (216) 712 14 68;http://isikun.edu.tr;berna.avci@isikun.edu.tr;Işık Üniversitesi, Meşrutiyet Köyü, Üniversitesi Sok. No:2 ŞİLE/İSTANBUL;CEMAL İBİŞ
+90;34;İSTANBUL;İBN HALDUN ÜNİVERSİTESİ;0 (212) 692-02 12/10 05;0 (212) 551 64 64;www.ibnhaldun.edu.tr;info@ibnhaldun.edu.tr;Ulubatlı Hasan Cd. No:2 34494 Başakşehir / İstanbul;RECEP ŞENTÜRK
+91;34;İSTANBUL;İSTANBUL AREL ÜNİVERSİTESİ;0 (212) 867 25 00;0 (212) 860 04 81;http://www.arel.edu.tr;arel@arel.edu.tr;İstanbul Arel Üniversitesi -Türkoba Mah. Erguvan Sokak No: 26/K Tepekent- B.Çekmece/İSTANBUL;İHSAN DERMAN
+92;34;İSTANBUL;İSTANBUL ATLAS ÜNİVERSİTESİ;-;-;-;-;-;-
+93;34;İSTANBUL;İSTANBUL AYDIN ÜNİVERSİTESİ;444 14 28;0 (212) 425 57 59;http://www.aydin.edu.tr;info@aydin.edu.tr;Florya Halit Aydın Kampüsü Beşyol Mah. İnönü Cad. No: 38 Sefaköy- Küçükçekmece/İSTANBUL;YADİGAR İZMİRLİ
+94;34;İSTANBUL;İSTANBUL AYVANSARAY ÜNİVERSİTESİ;444 76 96;0 (212) 621 45 03;www.ayvansaray.edu.tr;info@ayvansaray.edu.tr;Ayvansaray Cd. No:45 Balat Fatih / İstanbul;SERMİN ÖRNEKTEKİN
+95;34;İSTANBUL;İSTANBUL BİLGİ ÜNİVERSİTESİ;0 (212) 311 50 00;0 (212) 216 24 14;www.bilgi.edu.tr;info@bilgi.edu.tr;Eski Silahtarağa Elektrik Santralı Kazım Karabekir Cad. No: 2/13 34060 Eyüpsultan İstanbul;MUSTAFA EGE YAZGAN
+96;34;İSTANBUL;İSTANBUL BİLİM ÜNİVERSİTESİ;0 (212) 213 64 86;0 (212) 213 92 07;http://www.istanbulbilim.edu.tr;info@istanbulbilim.edu.tr;Büyükdere Cad. No:120 Esentepe-Şişli İSTANBUL;ÇAVLAN ÇİFTÇİ
+97;34;İSTANBUL;İSTANBUL ESENYURT ÜNİVERSİTESİ;Santral 444 91 23 / Rektörlük D.;0 (212) 699 09 90;http://www.esenyurt.edu.tr;bilgi@esenyurt.edu.tr;İnönü Mah. Doğan Araslı Bulvarı No:79 Esenyurt-İSTANBUL;SUDİ APAK
+98;34;İSTANBUL;İSTANBUL GEDİK ÜNİVERSİTESİ;0 (216) 452 45 85;0 (216) 452 87 17;www.gedik.edu.tr;info@gedik.edu.tr;Cumhuriyet Mahallesi İlkbahar Sokak No: 1 Yakacık 34876 Kartal İstanbul;ZAFER UTLU
+99;34;İSTANBUL;İSTANBUL GELİŞİM ÜNİVERSİTESİ;0 (212) 422 70 00;0 (212) 422 74 01;www.gelisim.edu.tr;bilgi@gelisim.edu.tr;Cihangir Mahallesi Şehit Jandarma Komando Er Hakan Öner Sk. No:1 Avcılar / İSTANBUL;BURHAN AYKAÇ
+100;34;İSTANBUL;İSTANBUL KENT ÜNİVERSİTESİ;0 (212 610 10 10;0 (212) 244 53 68;www.kent.edu.tr;info@kent.edu.tr;Cihangir Mahallesi Sıraselviler Caddesi No:71 34433 Beyoğlu İSTANBUL;-
+101;34;İSTANBUL;İSTANBUL KÜLTÜR ÜNİVERSİTESİ;0 (212) 498 41 41;0 (212) 498 43 06;www.iku.edu.tr;kultur@iku.edu.tr;Ataköy Yerleşkesi, 34156 Bakırköy / İSTANBUL;ERHAN GÜZEL
+102;34;İSTANBUL;İSTANBUL MEDENİYET ÜNİVERSİTESİ;0 (216) 280 33 33;0 (216) 602 28 05;http://www.medeniyet.edu.tr;ozelkalem@medeniyet.edu.tr;Dumlupınar mahallesi, D-100 Karayolu No:98  Kadıköy / İstanbul;MUHAMMET İHSAN KARAMAN
+103;34;İSTANBUL;İSTANBUL MEDİPOL ÜNİVERSİTESİ;444 85 44;0 (212) 531 75 55;www.medipol.edu.tr;bilgi@medipol.edu.tr;Kavacık Mah.Ekinciler Cad.No:19, 34840 Beykoz-İstanbul;SABAHATTİN AYDIN
+104;34;İSTANBUL;İSTANBUL OKAN ÜNİVERSİTESİ;0 (216) 677 16 30;0 (216) 677 16 47;www.okan.edu.tr;okan@okan.edu.tr;Okan Üniversitesi Tuzla Kampüsü, 34959 Akfırat - Tuzla / İSTANBUL;AYŞE ŞULE KUT
+105;34;İSTANBUL;İSTANBUL RUMELİ ÜNİVERSİTESİ;0 (212) 866 01 01;0 (212) 866 01 25;www.rumeli.edu.tr;bilgi@rumeli.edu.tr;Yeni Mahalle Mah. Mehmet Silivrili Cad. No: 38/8 Posta Kodu 34570 SİLİVRİ-İSTANBUL;SALİH AYNURAL
+106;34;İSTANBUL;İSTANBUL SABAHATTİN ZAİM ÜNİVERSİTESİ;0 (212) 692 96 00;0 (212) 693 82 29;http://www.izu.edu.tr;bilgi@izu.edu.tr;Halkalı Cad. No: 2 Halkalı - Küçükçekmece / İSTANBUL Posta Kodu: 34303;MEHMET BULUT
+107;34;İSTANBUL;İSTANBUL ŞEHİR ÜNİVERSİTESİ;444 40 34;0 (216) 474 53 53;http://www.sehir.edu.tr;info@sehir.edu.tr - rektorluk@sehir.edu.tr;Orhantepe Mahallesi, Turgut Özal Bulvarı, No: 21, Dragos, 34865 Kartal/İstanbulL;PEYAMİ ÇELİKCAN
+108;34;İSTANBUL;İSTANBUL ŞİŞLİ MESLEK YÜKSEKOKULU;444 78 68;0 (212) 250 95 03;http://www.sisli.edu.tr;info@sisli.edu.tr;Esentepe Mh. Büyükdere Cd. No:100 Şişli / İstanbul;-
+109;34;İSTANBUL;İSTANBUL TEKNİK ÜNİVERSİTESİ;0 (212) 285 29 00;0 (212) 285 66 10;http:www.itu.edu.tr;ozelkalem@itu.edu.tr;İTÜ Ayazağa Yerleşkesi yeni Rektörlük Binası Kat:2 MASLAK-SARIYER- İSTANBUL;MEHMET KARACA
+110;34;İSTANBUL;İSTANBUL TİCARET ÜNİVERSİTESİ;0 (212) 314 41 41;0 (212) 320 70 11;http://www.ticaret.edu.tr;rektorluk@ticaret.edu.tr;Sütlüce Mahallesi, İmrahor Caddesi No: 90 34445 Beyoğlu / İSTANBUL;NAZIM EKREN
+111;34;İSTANBUL;İSTANBUL ÜNİVERSİTESİ;0 (212) 440 00 00;0 (212) 440 00 10;http://www.istanbul.edu.tr;ubilgi@istanbul.edu.tr;İSTANBUL ÜNİVERSİTESİ REKTÖRLÜK İSTANBUL UNIVERSITY RECTORATE İstanbul Üniversitesi, Beyazıt Yerleşkesi 34452 Beyazıt, İstanbul – Türkiye;MAHMUT AK
+112;34;İSTANBUL;İSTANBUL ÜNİVERSİTESİ - CERRAHPAŞA;-;-;-;-;-;-
+113;34;İSTANBUL;İSTANBUL YENİ YÜZYIL ÜNİVERSİTESİ;0 (212) 449 35 95;0 (212) 481 40 58;www.yeniyuzyil.edu.tr;rektorluk@yeniyuzyil.edu.tr;T.C. İstanbul Yeni Yüzyıl Üniversitesi Topkapı Dr. Azmi  Ofluoğlu Yerleşkesi;İLHAN HACISALİHOĞLU
+114;34;İSTANBUL;İSTANBUL 29 MAYIS ÜNİVERSİTESİ;0 (216) 474 08 60;0 (216) 474 08 75;http://www.29mayis.edu.tr;29mayis@29mayis.edu.tr;İcadiye Bağlarbaşı Cad. No:40 34662 Üsküdar/İSTANBUL;İBRAHİM DÖNMEZ
+115;34;İSTANBUL;İSTİNYE ÜNİVERSİTESİ;0 (850) 283 60 00;0 (212) 481 36 88;www.istinye.edu.tr;info@istinye.edu.tr;İstinye Üniversitesi Topkapı Kampüsü, Maltepe Mah., Edirne Çırpıcı Yolu, No.9 Zeytinburnu, İstanbul, 34010;MELİH BULU
+116;34;İSTANBUL;İZMİR KAVRAM MESLEK YÜKSEKOKULU;444 91 34;0 (212) 216 09 14;www.kavram.edu.tr;kamil.uslu@kavram.edu.tr;Bahçelievler Mah. Bosna Bulvarı No:140 34680 Çengelköy-Üsküdar/İSTANBUL;-
+117;34;İSTANBUL;KADİR HAS ÜNİVERSİTESİ;0 (212) 533 65 32;0 (212) 631 91 50;http://www.khas.edu.tr;khas-rektorluk@khas.edu.tr;Kadir Has Üniversitesi, Kadir Has Caddesi, Cibali / İSTANBUL 34083;MUSTAFA AYDIN
+118;34;İSTANBUL;KOÇ ÜNİVERSİTESİ;0 (212) 338 10 00;0 (212) 338 12 48;http://www.ku.edu.tr;rektor@ku.edu.tr;Koç Üniversitesi, Rumelifeneri Yolu, 34450, SARIYER, ISTANBUL;UMRAN SAVAŞ İNAN
+119;34;İSTANBUL;MALTEPE ÜNİVERSİTESİ;0 (216) 626 10 72;0 (216) 626 10 70;http://www.maltepe.edu.tr/;maltepe@maltepe.edu.tr;Maltepe Üniversitesi Marmara Eğitim Köyü PK:34857 MALTEPE İSTANBUL;ŞAHİN KARASAR
+120;34;İSTANBUL;MARMARA ÜNİVERSİTESİ;0 (212) 518 16 00;0 (212) 518 16 15;http://www.marmara.edu.tr/;-;Göztepe Kampüsü 34722 / Kadıköy - İstanbul;MEHMET EMİN ARAT
+121;34;İSTANBUL;MEF ÜNİVERSİTESİ;0 (212) 395 36 00;0 (212) 395 36 92;http://www.mef.edu.tr;mef@mef.edu.tr;Ayazağa Cad. No.4 34396 Maslak - Sarıyer - İstanbul;MUHAMMED ŞAHİN
+122;34;İSTANBUL;MİMAR SİNAN GÜZEL SANATLAR ÜNİVERSİTESİ;0 (212) 293 37 60;0 (212) 243 08 88;http://www.msgsu.edu.tr;rector@msgsu.edu.tr;Meclis-i Mebusan Caddesi No: 24 Fındıklı 34427 İstanbul;YALÇIN KARAYAĞIZ
+123;34;İSTANBUL;NİŞANTAŞI ÜNİVERSİTESİ;0 (212) 210 10 10;0 (212) 565 25 25;http://www.nisantasi.edu.tr;genel.sekreterlik@nisantasi. edu.;Maslak Mahallesi Söğütözü Sk. No:20/Y Nişantaşı Üniversitesi Maslak 1453 Neotech Kampüsü Sarıyer/İstanbul;ESRA HATİPOĞLU
+124;34;İSTANBUL;ÖZYEĞİN ÜNİVERSİTESİ;0 (216) 564 93 00;0 (216) 564 99 99;www.ozyegin.edu.tr;rektor@ozyegin.edu.tr;Nişantepe Mah. Orman Sok. No:34-36 Çekmeköy-İstanbul;FERİDE GENÇTÜRK
+125;34;İSTANBUL;PİRİ REİS ÜNİVERSİTESİ;0 (216) 581 00 50;0 (216) 581 00 51;http://www.pirireis.edu.tr;bilgi@pirireis.edu.tr;Postane Mahallesi, Eflatun Sk. No:8, 34940 Tuzla/İSTANBUL;ORAL ERDOĞAN
+126;34;İSTANBUL;SABANCI ÜNİVERSİTESİ;0 (216) 483 90 00;0 (216) 483 90 05;http://www.sabanciuniv.edu;suhelp@sabanciuniv.edu;Sabancı Üniversite Orta Mah. Üniversite Caddesi No:27 34956 Orhanlı Tuzla İstanbu;ZEHRA SAYERS
+127;34;İSTANBUL;SAĞLIK BİLİMLERİ ÜNİVERSİTESİ;0 (216) 346 36 36;0 (216) 346 36 40;http://www.sbu.edu.tr;bilgi@sbu.edu.tr;Mekteb-i Tıbbiye-i Şahane (Haydarpaşa) Külliyesi, Selimiye Mah. Tıbbiye Cad. No:38 34668 ÜSKÜDAR/İSTANBUL;CEVDET ERDÖL
+128;34;İSTANBUL;SEMERKAND BİLİM VE MEDENİYET ÜNİVERSİTESİ;-;-;-;-;-;-
+129;34;İSTANBUL;TÜRK-ALMAN ÜNİVERSİTESİ;0 (216) 333 30 00;0 (216) 333 30 31;http://www.tau.edu.tr/;info@tau.edu.tr;Şahinkaya Cad. No: 86 Beykoz/İSTANBUL;-
+130;34;İSTANBUL;TÜRKİYE ULUSLARARASI İSLAM, BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ;-;-;-;-;-;-
+131;34;İSTANBUL;TÜRK-JAPON BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ;-;-;-;-;-;-
+132;34;İSTANBUL;ÜSKÜDAR ÜNİVERSİTESİ;0 (216) 400 22 22;0 (216) 474 12 56;http://www.uskudar.edu.tr;info@uskudar.edu.tr;Altunizade Mah.Haluk Türksoy Sok. No:14 Üsküdar/İstanbul;KAŞİF NEVZAT TARHAN
+133;34;İSTANBUL;YEDİTEPE ÜNİVERSİTESİ;0 (216) 578 02 03;0 (216) 578 00 00;http://www.yeditepe.edu.tr/;caykutbingol@yeditepe.edu.tr;26 Ağustos Yerleşimi.Kayışdağı Cad.34755 Ataşehir/İstanbul;CANAN AYKUT BİNGÖL
+134;34;İSTANBUL;YILDIZ TEKNİK ÜNİVERSİTESİ;0 (212) 227 71 19;0 (212) 227 69 90;http://www.yildiz.edu.tr;ozelkalem@yildiz.edu.tr;Davutpaşa Mah. Davutpaşa Cad. 34220 Esenler - İstanbul;BAHRİ ŞAHİN
+135;35;İZMİR;DOKUZ EYLÜL ÜNİVERSİTESİ;0 (232) 412 12 12;0 (232) 464 81 35;http://www.deu.edu.tr;gen.sek@deu.edu.tr;Cumhuriyet Bulvarı No:144 Alsancak 35210 Konak/İZMİR;ERDAL ÇELİK
+136;35;İZMİR;EGE ÜNİVERSİTESİ;0 (232) 311 10 10;0 (232) 343 42 15;http://www.ege.edu.tr;webadmin@ege.edu.tr;Ege Üniversitesi Rektörlüğü Gençlik Caddesi No:12 PK.35040 Bornova / İzmir;NECDET BUDAK
+137;35;İZMİR;İZMİR BAKIRÇAY ÜNİVERSİTESİ;0 (232) 493 00 00;0 (232) 493 00 00;bakircay.edu.tr;info@bakircay.edu.tr;Seyrek Kampüsü/ Gazi Mustafa Kemal Mah.Kaynaklar Cad./ Seyrek/Menemen/İZMİR;MUSTAFA BERKTAŞ
+138;35;İZMİR;İZMİR DEMOKRASİ ÜNİVERSİTESİ;0 (232) 260 10 01;0 (232) 260 10 04;https://www.idu.edu.tr;iletisim@idu.edu.tr;Üçkuyular Mahallesi, Gürsel Aksel Bulvarı, No:14 35140 Karabağlar/İZMİR;BEDRİYE TUNÇSİPER
+139;35;İZMİR;İZMİR EKONOMİ ÜNİVERSİTESİ;0 (232) 279 25 25;0 (232) 279 26 26;http://www.ieu.edu.tr;ik@ieu.edu.tr;Sakarya Cad. No:156 35330 Balçova İZMİR;FATMA NACİYE CAN MUĞAN
+140;35;İZMİR;İZMİR KATİP ÇELEBİ ÜNİVERSİTESİ;0 (232) 329 35 35;0 (232) 386 08 88;http://www.ikc.edu.tr/;rektorluk@ikc.edu.tr;İzmir Kâtip Çelebi Üniversitesi Çiğli Ana Yerleşkesi 35620 İZMİR;SAFFET KÖSE
+141;35;İZMİR;İZMİR TINAZTEPE ÜNİVERSİTESİ;-;-;-;-;-;-
+142;35;İZMİR;İZMİR YÜKSEK TEKNOLOJİ ENSTİTÜSÜ;0 (232) 750 60 01;0 (232) 750 60 15;http://www.iyte.edu.tr/;rektorluk@iyte.edu.tr;İzmir Yüksek Teknoloji Enstitüsü Gülbahçe Kampüsü Urla/İZMİR;MUSTAFA GÜDEN
+143;35;İZMİR;YAŞAR ÜNİVERSİTESİ;0 (232) 570 70 70;0 (232) 570 70 00;http://www.yasar.edu.tr;burcu.sagir@yasar.edu.tr;Üniversite Cad., No.:35-37, Ağaçlı Yol, Bornova-İZMİR;MEHMET CEMALİ DİNÇER
+144;36;KARS;KAFKAS ÜNİVERSİTESİ;0 (474) 225 11 58;0 (474) 225 11 60;http://www.kafkas.edu.tr;rektor@kafkas.edu.tr;Kafkas Üniversitesi Şehitler Mh. Turan Çelik Cd. Kombina Yolu Üzeri Merkez/KARS;SAMİ ÖZCAN
+145;37;KASTAMONU;KASTAMONU ÜNİVERSİTESİ;0 (366) 280 10 36;0 (366) 280 10 38;http://www.kastamonu.edu.tr/i ndex.php/tr/;rektor@kastamonu.edu.tr;Cumhuriyet Meydanı Rektörlük Binası KASTAMONU;SEYİT AYDIN
+146;38;KAYSERİ;ABDULLAH GÜL ÜNİVERSİTESİ;0 (352) 224 88 00;0 (352) 338 88 28;http://www.agu.edu.tr/rektorlu k-ofisi;ozelkalem@agu.edu.tr;Barbaros Mahallesi Sümer Kampüsü Kocasinan-KAYSERİ;İHSAN SABUNCUOĞLU
+147;38;KAYSERİ;ERCİYES ÜNİVERSİTESİ;0 (352) 207 66 66;0 (352) 437 49 31;http://www.erciyes.edu.tr;basinyayin@erciyes.edu.tr;Talas Yolu Melikgazi 38039 KAYSERİ;MUHAMMET GÜVEN
+148;38;KAYSERİ;KAYSERİ ÜNİVERSİTESİ;-;-;-;-;-;-
+149;38;KAYSERİ;NUH NACİ YAZGAN ÜNİVERSİTESİ;0 (352) 324 00 00;0 (352) 324 00 04;http://www.nny.edu.tr;info@nny.edu.tr;Erkilet Dere Mah. Kuzey Çevreyolu Nuh Naci Yazgan Üniversitesi Kocasinan/Kayseri;KERİM GÜNEY
+150;39;KIRKLARELİ;KIRKLARELİ ÜNİVERSİTESİ;0 (288) 212 96 88-89;0 (288) 212 96 82;http://www.klu.edu.tr/;ozelkalem@klu.edu.tr;Cumhuriyet Mahallesi Kofcaz Yolu Kayalı Yerleşkesi Merkez-Kırklareli;BÜLENT ŞENGÖRÜR
+151;40;KIRŞEHİR;KIRŞEHİR AHİ EVRAN ÜNİVERSİTESİ;0 (386) 280 40 45;0 (386) 280 40 52;ahievran.edu.tr;ozelkalem@ahievran.edu.tr;Bağbaşı Mah. Sahir kurutluoğlu cad. NO: 100 Merkez /KIRŞEHİR;VATAN KARAKAYA
+152;41;KOCAELİ;GEBZE TEKNİK ÜNİVERSİTESİ;0 (262) 605 15 09;0 (262) 653 84 90;www.gtu.edu.tr;bilgi@gtu.edu.tr;Gebze Teknik Üniversitesi Rektörlüğü Cumhuriyet Mah. 2254 Sok. No:2 Gebze/KOCAELİ;MUHAMMED HASAN ASLAN
+153;41;KOCAELİ;KOCAELİ ÜNİVERSİTESİ;0 (262) 303 10 01;0 (262) 303 10 33;http://www.kocaeli.edu.tr/;rekiletisim@kocaeli.edu.tr;Umuttepe Merkez Yerleşkesi 41380 İzmit/KOCAELİ;SADETTİN HÜLAGÜ
+154;42;KONYA;KONYA GIDA VE TARIM ÜNİVERSİTESİ;0 (332) 223 54 88;0 (332) 223 54 90;http://www.gidatarim.edu.tr/;info@gidatarim.edu.tr;Dede Korkut Mah. Beyşehir Cad. No:9 42080 Meram / KONYA;CUMHUR ÇÖKMÜŞ
+155;42;KONYA;KONYA TEKNİK ÜNİVERSİTESİ;-;-;-;-;-;-
+156;42;KONYA;KTO KARATAY ÜNİVERSİTESİ;444 12 51;0 (332) 202 00 44;http://www.karatay.edu.tr;bilgi@karatay.edu.tr;KTO Karatay Üniversitesi Rektörlüğü Akabe Mah. Alaaddin Kap Cad. No: 130 Karatay/KONYA;BAYRAM SADE
+157;42;KONYA;NECMETTİN ERBAKAN ÜNİVERSİTESİ;0 (332) 221 06 99;0 (332) 236 21 41;http://www.konya.edu.tr;bilgi@konya.edu.tr;Nişantaş Mahallesi Dr.M.Hulusi Baybal Caddesi Bera İş Merkezi No:12 Selçuklu/KONYA;MUZAFFET ŞEKER
+158;42;KONYA;SELÇUK ÜNİVERSİTESİ;0 (332) 223 84 00;0 (332) 223 82 65;http://www.selcuk.edu.tr/;ozelkalem@selcuk.edu.tr;Alaaddin Keykubat Kampüsü, Akademi Mahallesi, Yeni İstanbul Caddesi No:369/1 42130;MUSTAFA ŞAHİN
+159;43;KÜTAHYA;KÜTAHYA DUMLUPINAR ÜNİVERSİTESİ;0 (274) 265 20 31;0 (274) 265 20 04;http://dumlupinar.edu.tr;ozelkalem@dpu.edu.tr;Dumlupınar Üniversitesi Evliya Çelebi Yerleşkesi Tavşanlı Yolu 10. km. KÜTAHYA;REMZİ GÖREN
+160;43;KÜTAHYA;KÜTAHYA SAĞLIK BİLİMLERİ ÜNİVERSİTESİ;-;-;-;-;-;-
+161;44;MALATYA;İNÖNÜ ÜNİVERSİTESİ;0 (422) 377 30 00;0 (422) 341 00 34;http://www.inonu.edu.tr/;universite@inonu.edu.tr;İnönü Üniversitesi Kampüsü Elazığ Yolu 15. Km. 44280 MALATYA;AHMET KIZILAY
+162;44;MALATYA;MALATYA TURGUT ÖZAL ÜNİVERSİTESİ;-;-;-;-;-;-
+163;45;MANİSA;MANİSA CELÂL BAYAR ÜNİVERSİTESİ;0 (236) 201 10 14;0 (236) 237 24 42;www.cbu.edu.tr;ozelkalem@cbu.edu.tr;Şehit Prof. Dr. İlhan Varank Kampüsü 45140 - Yunusemre - MANİSA;AHMET KEMAL ÇELEBİ
+164;46;KAHRAMANMARAŞ;KAHRAMANMARAŞ İSTİKLAL ÜNİVERSİTESİ;-;-;-;-;-;-
+165;46;KAHRAMANMARAŞ;KAHRAMANMARAŞ SÜTÇÜ İMAM ÜNİVERSİTESİ;0 (344) 300 10 00;0 (344) 300 10 37;www.ksu.edu.tr;genelsekreterlik@ksu.edu.tr;Kahramanmaraş Sütçü İmam Üniversitesi Rektörlüğü,  Avşar Mah. Batı Çevreyolu Blv.  No: 251/A 46040 - Onikişubat/Kahramanmaraş;NİYAZİ CAN
+166;47;MARDİN;MARDİN ARTUKLU ÜNİVERSİTESİ;0 (482) 213 40 02;0 (482) 213 40 04;http://www.artuklu.edu.tr/;pdb@artuklu.edu.tr;Mardin Artuklu Üniversitesi Yenişehir Yerleşkesi, Diyarbakır Yolu Yenişehir Mardin;AHMET AĞIRAKÇA
+167;48;MUĞLA;MUĞLA SITKI KOÇMAN ÜNİVERSİTESİ;0 (252) 211 10 00;0 (252) 211 15 00;http://www.mu.edu.tr/;okalem@mu.edu.tr;Muğla Sıtkı Koçman Üniversitesi Rektörlüğü 48000 Menteşe/MUĞLA;-
+168;49;MUŞ;MUŞ ALPARSLAN ÜNİVERSİTESİ;0 (436) 249 49 49;0 (436) 249 10 22;www.alparslan.edu.tr;bilgi@alparslan.edu.tr;Muş Alparslan Üniversitesi Kampusu, Rektörlük, Diyarbakır Yolu 7. km 49250- MUŞ;FETHİ POLAT
+169;50;NEVŞEHİR;KAPADOKYA ÜNİVERSİTESİ;0 (384) 353 50 09;0 (384) 353 51 25;www.kapadokya.edu.tr;info@kapadokya.edu.tr;Üniversite Meydanı No:2 Mustafapaşa Ürgüp/Nevşehir;HASAN ALİ KARASAR
+170;50;NEVŞEHİR;NEVŞEHİR HACI BEKTAŞ VELİ ÜNİVERSİTESİ;0 (384) 228 10 73;0 (384) 215 30 58;http://www.nevsehir.edu.tr/;ozelkalem@nevsehir.edu.tr;Nevşehir Hacı Bektaş Veli Üniversitesi Rektörlüğü 2000 Evler Mahallesi Zübeyde Hanım Cad. 50300;MAZHAR BAĞLI
+171;51;NİĞDE;NİĞDE ÖMER HALİSDEMİR ÜNİVERSİTESİ;0 (388) 225 26 02-05-06;0 (388) 225 26 00;http://www.ohu.edu.tr/;ozelkalem@ohu.edu.tr;Niğde Ömer Halisdemir Üniversitesi Rektörlüğü Rektörlük Binası 2. Kat Merkez Yerleşke Bor Yolu Üzeri 51240 Merkez/NİĞDE;MUHSİN KAR
+172;52;ORDU;ORDU ÜNİVERSİTESİ;0 (452) 226 52 00;0 (452) 234 44 00;http://www.odu.edu.tr;rektorozelkalem@odu.edu.tr;Cumhuriyet Yerleşkesi 52200 Merkez/ORDU;TARIK YARILGAÇ
+173;53;RİZE;RECEP TAYYİP ERDOĞAN ÜNİVERSİTESİ;0 (464) 223 81 00;0 (464) 223 63 28;erdogan.edu.tr;genel.sekreter@erdogan.edu.tr;Recep Tayyip Erdoğan Üniversitesi Zihni Derin Yerleşkesi, Fener Mah. 53100 RİZE;HÜSEYİN KARAMAN
+174;53;RİZE;SAMSUN ÜNİVERSİTESİ;-;-;-;-;-;-
+175;54;SAKARYA;SAKARYA UYGULAMALI BİLİMLER ÜNİVERSİTESİ;-;-;-;-;-;-
+176;54;SAKARYA;SAKARYA ÜNİVERSİTESİ;0 (264) 295 54 54;0 (264) 295 50 32;http://www.sakarya.edu.tr;ilko@sakarya.edu.tr;Sakarya Üniversitesi Esentepe Kampüsü 54187 Serdivan / SAKARYA;-
+177;55;SAMSUN;ONDOKUZ MAYIS ÜNİVERSİTESİ;0 (362) 457 58 70;0 (362) 457 60 91;http://www.omu.edu.tr/;iletisim@omu.edu.tr;Ondokuz Mayıs Üniversitesi Rektörlük Binası Kurupelit Kampüsü, 55139 Atakum / SAMSUN;SAİT BİLGİÇ
+178;56;SİİRT;SİİRT ÜNİVERSİTESİ;0 (484) 212 11 11;0 (484) 223 19 98;https://siirt.edu.tr;siu@siirt.edu.tr;Kezer Kampüsü SİİRT;MURAT ERMAN
+179;57;SİNOP;SİNOP ÜNİVERSİTESİ;0 (368) 271 57 57;0 (368) 271 57 63;http://www.sinop.edu.tr;sinop@sinop.edu.tr;Korucuk Köyü Trafo Mahallesi No:36  57000 ? SİNOP;NİHAT DALGIN
+180;58;SİVAS;SİVAS BİLİM VE TEKNOLOJİ ÜNİVERSİTESİ;-;-;-;-;-;-
+181;58;SİVAS;SİVAS CUMHURİYET ÜNİVERSİTESİ;0 (346) 219 11 58;0 (346) 219 12 70;http://www.cumhuriyet.edu.tr;ryaziisl@cumhuriyet.edu.tr;Cumhuriyet Üniversitesi, Yenişehşr Mah. Kayseri Caddesi 58140 Kampüs SİVAS;ALİM YILDIZ
+182;59;TEKİRDAĞ;TEKİRDAĞ NAMIK KEMAL ÜNİVERSİTESİ;0 (282) 250 10 02;0 (282) 250 99 00;http://www.nku.edu.tr;ozelkalem@nku.edu.tr;Namık Kemal Mah. Kampüs Cad. No:1 Merkez-TEKİRDAĞ;OSMAN ŞİMŞEK
+183;60;TOKAT;TOKAT GAZİOSMANPAŞA ÜNİVERSİTESİ;0 (356) 252 16 16;0 (356) 252 16 26;www.gop.edu.tr;gensek@gop.edu.tr;Gaziosmanpaşa Üniversitesi Rektörlüğü Taşlıçiftlik Yerleşkesi TOKAT;MUSTAFA ŞAHİN
+184;61;TRABZON;AVRASYA ÜNİVERSİTESİ;462 334 64 44-45-47;462 334 64 54;http://www.avrasya.edu.tr;info@avrasya.edu.tr;Avrasya Üniversitesi Rektörlüğü Adnan Kahvesi Mah. Rize Caddesi;KENAN İNAN
+185;61;TRABZON;KARADENİZ TEKNİK ÜNİVERSİTESİ;0 (462) 377 21 01;0 (462) 325 32 05;http://www.ktu.edu.tr;information@ktu.edu.tr;Karadeniz Teknik Üniversitesi 61080 - Trabzon;SÜLEYMAN BAYKAL
+186;61;TRABZON;TRABZON ÜNİVERSİTESİ;-;-;-;-;-;-
+187;62;TUNCELİ;MUNZUR ÜNİVERSİTESİ;0 (428) 213 17 94;0 (428) 213 27 52;www.munzur.edu.tr;universite@munzur.edu.tr;Aktuluk Mahallesi Üniversite Yerleşkesi Merkez/TUNCELİ;UBEYDE İPEK
+188;63;ŞANLIURFA;HARRAN ÜNİVERSİTESİ;0 (414) 318 30 00;0 (414) 318 31 90;http://www.harran.edu.tr/;ozelkalem@harran.edu.tr;Hamidiye Mah. Necmettin Cevheri Caddesi, Yenişehir Şanlıurfa/Türkiye;RAMAZAN TAŞALTIN
+189;64;UŞAK;UŞAK ÜNİVERSİTESİ;0 (276) 221 21 21;0 (276) 221 22 02;http://www.usak.edu.tr;ozelkalem@usak.edu.tr;Uşak Üniversitesi Rektörlüğü 1 Eylül Kampüsü  64200 - UŞAK;EKREM SAVAŞ
+190;65;VAN;VAN YÜZÜNCÜ YIL ÜNİVERSİTESİ;444 50 65;0 (432) 486 54 13;http://www.yyu.edu.tr/;bilgi@yyu.edu.tr;Van Yüzüncü Yıl Üniversitesi Rektörlüğü, 65080, Kampüs / VAN;PEYAMİ BATTAL
+191;66;YOZGAT;YOZGAT BOZOK ÜNİVERSİTESİ;0 (354) 212 37 28;0 (354) 212 28 37;http://www.bozok.edu.tr/;ozel.kalem@bozok.edu.tr;Medrese Mahallesi Adnan Menderes Bulvarı No:118 66200 Yozgat;SALİH KARACABEY
+192;67;ZONGULDAK;ZONGULDAK BÜLENT ECEVİT ÜNİVERSİTESİ;0 (372) 291 12 03;0 (372) 257 40 14;http://www.beun.edu.tr;rektor@beun.edu.tr;Bülent Ecevit Üniversitesi Rektörlüğü İncivez-ZONGULDAK;MUSTAFA ÇUFALI
+193;68;AKSARAY;AKSARAY ÜNİVERSİTESİ;0 (382) 288 20 02-03;0 (382) 288 20 10;www.aksaray.edu.tr;ozelkalem@aksaray.edu.tr;Adana yolu 7.Km. E-90 karayolu üzeri Merkez 68100/AKSARAY;YUSUF ŞAHİN
+194;69;BAYBURT;BAYBURT ÜNİVERSİTESİ;0 (458) 211 11 53;0 (458) 211 11 25;http://www.bayburt.edu.tr;rektor@bayburt.edu.tr;Dede Korkut Kampüsü 69000 / BAYBURT;SELÇUK COŞKUN
+195;70;KARAMAN;KARAMANOĞLU MEHMETBEY ÜNİVERSİTESİ;0 (338) 226 20 00;0 (382) 26 20 23;http://www.kmu.edu.tr;iletisim@kmu.edu.tr;Karamanoğlu Mehmetbey Üniversitesi, Yunus Emre Yerleşkesi, 70100 KARAMAN/ TÜRKİYE;MEHMET AKGÜL
+196;71;KIRIKKALE;KIRIKKALE ÜNİVERSİTESİ;0 (318) 357 36 44;0 (318) 357 36 94;http://www.kku.edu.tr/Anasayfa/Sayfa/Index?;ozelkalem@kku.edu.tr;Kırıkkale Üniversitesi Ankara Yolu 7. Km 71450 Yahşihan/Kırıkkale;-
+197;72;BATMAN;BATMAN ÜNİVERSİTESİ;0 (488) 217 38 00;0 (488) 217 36 01;http://www.batman.edu.tr;batman@batman.edu.tr;Batı Raman 72100 Batman, Türkiye;AYDIN DURMUŞ
+198;73;ŞIRNAK;ŞIRNAK ÜNİVERSİTESİ;0 (486) 216 82 41;0 (486) 216 32 85;http://www.sirnak.edu.tr;posta@sirnak.edu.tr;Yeni Mahalle Cizre Caddesi Mehmet Emin Acar Kampüsü 73000 Şırnak - Türkiye;MEHMET EMİN ERKAN
+199;74;BARTIN;BARTIN ÜNİVERSİTESİ;0 (378) 223 55 00;0 (378) 223 50 42;http://www.bartin.edu.tr/;rektorluk@bartin.edu.tr;Bartın Üniversitesi Rektörlüğü Merkez/BARTIN;ORHAN UZUN
+200;75;ARDAHAN;ARDAHAN ÜNİVERSİTESİ;0 (478) 211 75 75;0 (478) 211 75 09;https://www.ardahan.edu.tr;rektorluk@ardahan.edu.tr;Ardahan Üniversitesi Yenisey Kampüsü, Rektörlük Hizmet Binası, Çamlıçatak Mevkii, 75000, Merkez/Ardahan;MEHMET BİBER
+201;76;IĞDIR;IĞDIR ÜNİVERSİTESİ;0 (476) 223 00 10-11-12-13;0 (476) 223 00 17-21;http://www.igdir.edu.tr;info@igdir.edu.tr;Suveren Kampüsü Suveren Köyü IĞDIR;MEHMET HAKKI ALMA
+202;77;YALOVA;YALOVA ÜNİVERSİTESİ;0 (226) 815 50 01;0 (226) 815 50 04;http://www.yalova.edu.tr/rektorluk;bilgi@yalova.edu.tr;Çınarcık Yolu 3.km Merkez Kampüsü Yalova;SUAT CEBECİ
+203;78;KARABÜK;KARABÜK ÜNİVERSİTESİ;0 (370) 433 82 00;0 (370) 433 20 05;http://www.karabuk.edu.tr/;iletisim@karabuk.edu.tr;Karabük Üniversitesi Demir Çelik Kampüsü Balıklar Kaya Mevkii;REFİK POLAT
+204;79;KİLİS;KİLİS 7 ARALIK ÜNİVERSİTESİ;0 (348) 814 26 66 / 1001- 1002;0 (348) 814 26 60;www.kilis.edu.tr;ozelkalem@kilis.edu.tr;Mehmet Sanlı Mah. Doğan Güreş Paşa Bulvarı No.134 Merlez/KİLİS;MUSTAFA DOĞAN KARACOŞKUN
+205;80;OSMANİYE;OSMANİYE KORKUT ATA ÜNİVERSİTESİ;0 (328) 825 18 18;0 (328) 825 00 97;http://www.osmaniye.edu.tr;osmaniye@osmaniye.edu.tr;Karacaoğlan Yerleşkesi 80000 Merkez/OSMANİYE;MURAT TÜRK
+206;81;DÜZCE;DÜZCE ÜNİVERSİTESİ;0 (380) 542 11 01;0 (380) 542 11 09;http://www.duzce.edu.tr/;gensek@duzce.edu.tr;Düzce Üniversitesi Rektörlüğü Genel Sekreterlik Beçi Kampüsü Merkez Düzce;NİGAR DEMİRCAN ÇAKAR
