@@ -1,55 +1,55 @@
 id;kodu;adi;nufus;rakim;googleMaps;openStreetMap;bolge;enlem;boylam;alankod;kıyı;bsehir;alan
 1;1;adana;2270298;25;https://goo.gl/maps/4yHUNdZuhcBn7rqX8;https://www.openstreetmap.org/relation/167216;Akdeniz;37.001.667;35.328.889;322;True;True;13844
-2;2;adiyaman;604978;701;https://goo.gl/maps/UqRzeK1ApyPjbhpp6;https://www.openstreetmap.org/relation/223141;Güneydoğu Anadolu;37.764.722;38.278.611;416;False;False;7337
+2;2;adıyaman;604978;701;https://goo.gl/maps/UqRzeK1ApyPjbhpp6;https://www.openstreetmap.org/relation/223141;Güneydoğu Anadolu;37.764.722;38.278.611;416;False;False;7337
 3;3;afyonkarahisar;751344;1012;https://goo.gl/maps/YeNjtvM93DdWqXZ46;https://www.openstreetmap.org/relation/223171;Ege;38.750.278;30.556.667;272;False;False;14016
-4;4;agri;511238;1630;https://goo.gl/maps/XRhjXkNfniLTjCfY7;https://www.openstreetmap.org/relation/186433;Doğu Anadolu;39.719.444;43.050.556;472;False;False;11099
+4;4;ağrı;511238;1630;https://goo.gl/maps/XRhjXkNfniLTjCfY7;https://www.openstreetmap.org/relation/186433;Doğu Anadolu;39.719.444;43.050.556;472;False;False;11099
 5;5;amasya;339529;400;https://goo.gl/maps/1wM3GEACXZW3kG219;https://www.openstreetmap.org/relation/223452;Karadeniz;40.649.722;35.835.278;358;False;False;5628
 6;6;ankara;5803482;905;https://goo.gl/maps/Ri3Zh3yBka5RhXdG8;https://www.openstreetmap.org/relation/223422;İç Anadolu;3.992.077;3.285.411;312;False;True;25632
 7;7;antalya;2696249;62;https://goo.gl/maps/bs2JWRpPJPLLfTyv5;https://www.openstreetmap.org/relation/223132;Akdeniz;3.688.414;3.070.563;242;True;True;20177
 8;8;artvin;172356;530;https://goo.gl/maps/BNqMFsBRd8AUX9mx8;https://www.openstreetmap.org/relation/223448;Karadeniz;4.118.222;4.181.889;466;True;False;7393
-9;9;aydin;1161702;92;https://goo.gl/maps/453kMPbSgGMJPWcg7;https://www.openstreetmap.org/relation/223166;Ege;3.784.444;2.784.556;256;True;True;8116
-10;10;balikesir;1273519;145;https://goo.gl/maps/RJquCx4SbtBENXDu9;https://www.openstreetmap.org/relation/223464;Marmara;3.964.861;278.825;266;True;True;14583
+9;9;aydın;1161702;92;https://goo.gl/maps/453kMPbSgGMJPWcg7;https://www.openstreetmap.org/relation/223166;Ege;3.784.444;2.784.556;256;True;True;8116
+10;10;balıkesir;1273519;145;https://goo.gl/maps/RJquCx4SbtBENXDu9;https://www.openstreetmap.org/relation/223464;Marmara;3.964.861;278.825;266;True;True;14583
 11;11;bilecik;228058;513;https://goo.gl/maps/LJDq5jVJdrcLhCHu5;https://www.openstreetmap.org/relation/223420;Marmara;4.014.556;2.997.917;228;False;False;4179
-12;12;bingol;285655;1159;https://goo.gl/maps/4YXDvYHT4iHFCMDb7;https://www.openstreetmap.org/relation/223444;Doğu Anadolu;38.885;4.049.861;426;False;False;8004
+12;12;bingöl;285655;1159;https://goo.gl/maps/4YXDvYHT4iHFCMDb7;https://www.openstreetmap.org/relation/223444;Doğu Anadolu;38.885;4.049.861;426;False;False;8004
 13;13;bitlis;359747;1637;https://goo.gl/maps/p3fCL2MKcfHeqXcD6;https://www.openstreetmap.org/relation/223441;Doğu Anadolu;3.839.528;4.212.361;434;False;False;8294
 14;14;bolu;324789;741;https://goo.gl/maps/T8DJCNo4S8ngxcY36;https://www.openstreetmap.org/relation/223461;Karadeniz;4.073.528;3.160.639;374;False;False;8313
 15;15;burdur;277452;963;https://goo.gl/maps/BA4vZ8FHqw9TdWFt8;https://www.openstreetmap.org/relation/2319368;Akdeniz;3.772.111;3.029.056;248;False;False;7175
 16;16;bursa;3214571;238;https://goo.gl/maps/D4vgiGXypSUoAnb5A;https://www.openstreetmap.org/relation/223463;Marmara;4.018.222;2.906.111;224;True;True;10813
-17;17;canakkale;570499;11;https://goo.gl/maps/TUMVgeTAWBChTA5D9;https://www.openstreetmap.org/relation/223471;Marmara;4.015.556;2.641.444;286;True;False;9817
-18;18;cankiri;205501;730;https://goo.gl/maps/6kF6GM2DkPqqCoMD8;https://www.openstreetmap.org/relation/223454;Marmara;40.6;3.361.667;376;False;False;7542
-19;19;corum;528351;822;https://goo.gl/maps/wQa5dtRQDPCU4UNv9;https://www.openstreetmap.org/relation/223453;Karadeniz;4.055.056;3.495.556;364;False;False;12428
+17;17;çanakkale;570499;11;https://goo.gl/maps/TUMVgeTAWBChTA5D9;https://www.openstreetmap.org/relation/223471;Marmara;4.015.556;2.641.444;286;True;False;9817
+18;18;çankırı;205501;730;https://goo.gl/maps/6kF6GM2DkPqqCoMD8;https://www.openstreetmap.org/relation/223454;Marmara;40.6;3.361.667;376;False;False;7542
+19;19;çorum;528351;822;https://goo.gl/maps/wQa5dtRQDPCU4UNv9;https://www.openstreetmap.org/relation/223453;Karadeniz;4.055.056;3.495.556;364;False;False;12428
 20;20;denizli;1059082;392;https://goo.gl/maps/aVMraLcFzdK6MbeT9;https://www.openstreetmap.org/relation/223169;Ege;3.777.639;2.908.611;258;False;True;12134
-21;21;diyarbakir;1818133;674;https://goo.gl/maps/qsS4gxc5GdbQeMo57;https://www.openstreetmap.org/relation/223435;Güneydoğu Anadolu;3.791.417;4.023.056;412;False;True;15168
+21;21;diyarbakır;1818133;674;https://goo.gl/maps/qsS4gxc5GdbQeMo57;https://www.openstreetmap.org/relation/223435;Güneydoğu Anadolu;3.791.417;4.023.056;412;False;True;15168
 22;22;edirne;419913;50;https://goo.gl/maps/xBHKDxVHbWD2RrHs6;https://www.openstreetmap.org/relation/223465;Marmara;4.167.083;2.655.556;284;True;False;6145
-23;23;elazig;604411;1041;https://goo.gl/maps/aALifwxa3ZNacgtn6;https://www.openstreetmap.org/relation/223443;Doğu Anadolu;3.868.056;3.922.639;424;False;False;9383
+23;23;elazığ;604411;1041;https://goo.gl/maps/aALifwxa3ZNacgtn6;https://www.openstreetmap.org/relation/223443;Doğu Anadolu;3.868.056;3.922.639;424;False;False;9383
 24;24;erzincan;243399;1216;https://goo.gl/maps/9ypr7KJcnAEakUqY6;https://www.openstreetmap.org/relation/223445;Doğu Anadolu;39.75;39.5;446;False;False;11815
 25;25;erzurum;749993;1923;https://goo.gl/maps/ssmkHABXNprF5JFC9;https://www.openstreetmap.org/relation/186432;Doğu Anadolu;3.990.861;4.127.694;442;False;True;25006
-26;26;eskisehir;915418;796;https://goo.gl/maps/rRM16qjwATHfezhF8;https://www.openstreetmap.org/relation/223421;İç Anadolu;3.977.639;3.052.056;222;False;True;13960
+26;26;eskişehir;915418;796;https://goo.gl/maps/rRM16qjwATHfezhF8;https://www.openstreetmap.org/relation/223421;İç Anadolu;3.977.639;3.052.056;222;False;True;13960
 27;27;gaziantep;2164134;838;https://goo.gl/maps/ySMoHHviNjRyBriG7;https://www.openstreetmap.org/relation/223139;Güneydoğu Anadolu;3.706.667;3.738.333;342;False;True;6803
 28;28;giresun;461712;14;https://goo.gl/maps/xsmiZVAeBZrndZYE8;https://www.openstreetmap.org/relation/223449;Karadeniz;4.091.667;38.4;454;True;False;7025
-29;29;gumushane;148539;1174;https://goo.gl/maps/5nGQ1c66NJLJT2QL9;https://www.openstreetmap.org/relation/223541;Karadeniz;40.45;3.948.333;456;False;False;6668
+29;29;gümüşhane;148539;1174;https://goo.gl/maps/5nGQ1c66NJLJT2QL9;https://www.openstreetmap.org/relation/223541;Karadeniz;40.45;3.948.333;456;False;False;6668
 30;30;hakkari;287625;1756;https://goo.gl/maps/Pa4EUb6rz91uW66q9;https://www.openstreetmap.org/relation/174742;Güneydoğu Anadolu;3.758.333;4.373.333;438;False;False;7095
 31;31;hatay;1544640;89;https://goo.gl/maps/2VkFg1AM9B4Xv9W89;https://www.openstreetmap.org/relation/223122;Akdeniz;36.2;3.616.667;326;True;True;5524
-32;32;isparta;449777;1058;https://goo.gl/maps/v8tcHjuuCKyNMn687;https://www.openstreetmap.org/relation/223134;Akdeniz;3.776.667;30.55;246;False;False;8946
+32;32;ısparta;449777;1058;https://goo.gl/maps/v8tcHjuuCKyNMn687;https://www.openstreetmap.org/relation/223134;Akdeniz;3.776.667;30.55;246;False;False;8946
 33;33;mersin;1938389;18;https://goo.gl/maps/jVPgxP2wEF1BcUV66;https://www.openstreetmap.org/relation/223131;Akdeniz;36.8;3.463.333;324;True;True;16010
 34;34;istanbul;15655924;25;https://goo.gl/maps/wKdwRFM4NW8Wm6ZZ8;https://www.openstreetmap.org/relation/223474;Marmara;4.101.384;2.894.966;212;True;True;5461
 35;35;izmir;4479525;9;https://goo.gl/maps/nukYGi69xLMX7SNR6;https://www.openstreetmap.org/relation/223167;Ege;3.841.885;2.712.872;232;True;True;11891
 36;36;kars;278335;1756;https://goo.gl/maps/worCQtM2sdTAy6t8A;https://www.openstreetmap.org/relation/186431;Doğu Anadolu;4.060.833;4.308.333;474;False;False;10193
 37;37;kastamonu;388990;814;https://goo.gl/maps/SSFqej5quZyQ6uZn7;https://www.openstreetmap.org/relation/186431;Karadeniz;4.138.889;3.378.222;366;True;False;13064
 38;38;kayseri;1445683;1060;https://goo.gl/maps/A27qXKh2FCWEzTzr8;https://www.openstreetmap.org/relation/154451;İç Anadolu;3.873.111;3.547.889;352;False;False;16970
-39;39;kirklareli;377156;231;https://goo.gl/maps/v6PRExTopMCA2uhb6;https://www.openstreetmap.org/relation/223469;Marmara;4.173.333;2.721.667;288;True;False;6459
-40;40;kirsehir;247179;991;https://goo.gl/maps/C7rn2oVtZDqz54HA7;https://www.openstreetmap.org/relation/154452#map=9/39.3111/34.0556;İç Anadolu;3.914.222;3.417.056;386;False;False;6584
+39;39;kırklareli;377156;231;https://goo.gl/maps/v6PRExTopMCA2uhb6;https://www.openstreetmap.org/relation/223469;Marmara;4.173.333;2.721.667;288;True;False;6459
+40;40;kırsşehir;247179;991;https://goo.gl/maps/C7rn2oVtZDqz54HA7;https://www.openstreetmap.org/relation/154452#map=9/39.3111/34.0556;İç Anadolu;3.914.222;3.417.056;386;False;False;6584
 41;41;kocaeli;2102907;4;https://goo.gl/maps/PSVVkZbPKuEUrim67;https://www.openstreetmap.org/relation/223473;Marmara;4.076.667;2.991.667;262;True;True;3397
 42;42;konya;2320241;1023;https://goo.gl/maps/EMCU5es81LqioNid7;https://www.openstreetmap.org/relation/223133;İç Anadolu;3.786.667;3.248.333;332;False;True;40838
-43;43;kutahya;575674;958;https://goo.gl/maps/DsRnEr82a7fsJ1Xf8;https://www.openstreetmap.org/relation/223172;Ege;3.941.667;2.998.333;274;False;False;11634
+43;43;kütahya;575674;958;https://goo.gl/maps/DsRnEr82a7fsJ1Xf8;https://www.openstreetmap.org/relation/223172;Ege;3.941.667;2.998.333;274;False;False;11634
 44;44;malatya;742725;970;https://goo.gl/maps/HkMktwFVCqoCt14g7;https://www.openstreetmap.org/relation/223426;Doğu Anadolu;38.355;38.305;422;False;True;12259
 45;45;manisa;1475716;79;https://goo.gl/maps/E9DzgTLFvBV3rstE7;https://www.openstreetmap.org/relation/223168;Ege;3.861.361;2.742.694;236;False;True;13339
-46;46;kahramanmaras;1116618;562;https://goo.gl/maps/s3dakhk52nvps97L9;https://www.openstreetmap.org/relation/223138;Akdeniz;3.758.333;3.693.333;344;False;True;14520
+46;46;kahramanmaraş;1116618;562;https://goo.gl/maps/s3dakhk52nvps97L9;https://www.openstreetmap.org/relation/223138;Akdeniz;3.758.333;3.693.333;344;False;True;14520
 47;47;mardin;888874;938;https://goo.gl/maps/WidjMsfgeZwTdGqC9;https://www.openstreetmap.org/relation/223436;Güneydoğu Anadolu;3.731.111;4.074.361;482;False;True;8780
-48;48;mugla;1066736;659;https://goo.gl/maps/4YiaJwzP6U5Z2irW7;https://www.openstreetmap.org/relation/223136;Ege;3.721.667;2.836.667;252;True;True;12654
-49;49;mus;399879;1334;https://goo.gl/maps/7oitkLxS2gPPAHEF7;https://www.openstreetmap.org/relation/223440;Doğu Anadolu;3.874.444;4.149.611;436;False;False;8650
-50;50;nevsehir;315994;1197;https://goo.gl/maps/MUa2UDqfpWXXfiod9;https://www.openstreetmap.org/relation/154449;İç Anadolu;3.862.444;3.472.306;384;False;False;5485
-51;51;nigde;377080;1239;https://goo.gl/maps/PpKh8rj8wEsN1raW9;https://www.openstreetmap.org/relation/154456;İç Anadolu;3.796.667;3.468.333;388;False;False;7234
+48;48;muğla;1066736;659;https://goo.gl/maps/4YiaJwzP6U5Z2irW7;https://www.openstreetmap.org/relation/223136;Ege;3.721.667;2.836.667;252;True;True;12654
+49;49;muş;399879;1334;https://goo.gl/maps/7oitkLxS2gPPAHEF7;https://www.openstreetmap.org/relation/223440;Doğu Anadolu;3.874.444;4.149.611;436;False;False;8650
+50;50;nevşehir;315994;1197;https://goo.gl/maps/MUa2UDqfpWXXfiod9;https://www.openstreetmap.org/relation/154449;İç Anadolu;3.862.444;3.472.306;384;False;False;5485
+51;51;niğde;377080;1239;https://goo.gl/maps/PpKh8rj8wEsN1raW9;https://www.openstreetmap.org/relation/154456;İç Anadolu;3.796.667;3.468.333;388;False;False;7234
 52;52;ordu;775800;25;https://goo.gl/maps/MUUAwLbot3PKiM4z9;https://www.openstreetmap.org/relation/223450;Karadeniz;4.098.333;3.788.333;452;True;True;5861
 53;53;rize;350506;11;https://goo.gl/maps/zyNExe1TH4ca4TEp7;https://www.openstreetmap.org/relation/223542;Karadeniz;4.102.083;4.052.361;464;True;False;3835
 54;54;sakarya;1098115;41;https://goo.gl/maps/E14vjUfh6vtYgxNE6;https://www.openstreetmap.org/relation/223462;Marmara;4.076.667;3.041.667;264;True;True;4824
@@ -57,26 +57,26 @@ id;kodu;adi;nufus;rakim;googleMaps;openStreetMap;bolge;enlem;boylam;alankod;kıy
 56;56;siirt;347412;887;https://goo.gl/maps/A9RziYU4nmT5JRXTA;https://www.openstreetmap.org/relation/223543;Güneydoğu Anadolu;3.794.444;4.193.333;484;False;False;5717
 57;57;sinop;229716;27;https://goo.gl/maps/dDFGTRBWxMVtV4sT6;https://www.openstreetmap.org/relation/223457;Karadeniz;4.202.361;3.515.306;368;True;False;5717
 58;58;sivas;650401;1313;https://goo.gl/maps/1EnUytV861FmLWjZ8;https://www.openstreetmap.org/relation/223425;İç Anadolu;3.974.722;370.175;346;False;False;28164
-59;59;tekirdag;1167059;28;https://goo.gl/maps/njUunD1SpA8zXX2r9;https://www.openstreetmap.org/relation/223470;Marmara;4.098.333;2.751.667;282;True;True;6190
+59;59;tekirdağ;1167059;28;https://goo.gl/maps/njUunD1SpA8zXX2r9;https://www.openstreetmap.org/relation/223470;Marmara;4.098.333;2.751.667;282;True;True;6190
 60;60;tokat;606934;630;https://goo.gl/maps/NZdDAFbedQgwFHgV8;https://www.openstreetmap.org/relation/223424;Karadeniz;4.031.667;36.55;356;False;False;10042
 61;61;trabzon;824352;36;https://goo.gl/maps/3MNVGU2vaK4K4pUT6;https://www.openstreetmap.org/relation/223447;Karadeniz;41;3.973.333;462;True;True;4628
 62;62;tunceli;89317;922;https://goo.gl/maps/4xdfVHREhnbcexoQA;https://www.openstreetmap.org/relation/223537;Doğu Anadolu;3.911.667;3.953.333;428;False;False;7582
-63;63;sanliurfa;2213964;527;https://goo.gl/maps/HomBJUkX9PrtNk2L6;https://www.openstreetmap.org/relation/223434;Güneydoğu Anadolu;37.15;38.8;414;False;True;19242
-64;64;usak;377001;915;https://goo.gl/maps/fAhNfzHxWuguCfib7;https://www.openstreetmap.org/relation/223170;Ege;3.868.333;2.941.667;276;False;False;5555
+63;63;şanlıurfa;2213964;527;https://goo.gl/maps/HomBJUkX9PrtNk2L6;https://www.openstreetmap.org/relation/223434;Güneydoğu Anadolu;37.15;38.8;414;False;True;19242
+64;64;uşak;377001;915;https://goo.gl/maps/fAhNfzHxWuguCfib7;https://www.openstreetmap.org/relation/223170;Ege;3.868.333;2.941.667;276;False;False;5555
 65;65;van;1127612;1728;https://goo.gl/maps/HSTpUR2egRhG39M29;https://www.openstreetmap.org/relation/223442;Doğu Anadolu;38.5;43.4;432;False;True;20921
 66;66;yozgat;420699;1317;https://goo.gl/maps/FJbXiqUud8M9tpGp9;https://www.openstreetmap.org/relation/154450;İç Anadolu;3.981.667;3.481.667;354;False;False;13690
-67;67;zonguldak;591492;10;https://goo.gl/maps/uLQrR9gNqGMRJ4t7A;https://www.openstreetmap.org/relation/223459;Karadeniz;41.45;31.A�u;372;True;False;3342
+67;67;zonguldak;591492;10;https://goo.gl/maps/uLQrR9gNqGMRJ4t7A;https://www.openstreetmap.org/relation/223459;Karadeniz;41.45;31.A�u;372;True;False;3342
 68;68;aksaray;438504;1228;https://goo.gl/maps/xsGaB46hYrkMkwd8A;https://www.openstreetmap.org/relation/154454;İç Anadolu;3.836.667;3.403.333;382;False;False;7659
 69;69;bayburt;86047;1555;https://goo.gl/maps/mGqWgVfqQneCzwj36;https://www.openstreetmap.org/relation/223446;Karadeniz;40.25;4.021.667;458;False;False;3746
 70;70;karaman;263960;1063;https://goo.gl/maps/FWnvmkmDTmfnt3FN7;https://www.openstreetmap.org/relation/223446;İç Anadolu;3.718.333;3.321.667;338;False;False;8678
-71;71;kirikkale;285744;746;https://goo.gl/maps/wrhgZ7eMU9LwfiL46;https://www.openstreetmap.org/relation/223423;İç Anadolu;39.85;3.351.667;318;False;False;4791
+71;71;kırıkkale;285744;746;https://goo.gl/maps/wrhgZ7eMU9LwfiL46;https://www.openstreetmap.org/relation/223423;İç Anadolu;39.85;3.351.667;318;False;False;4791
 72;72;batman;647205;570;https://goo.gl/maps/DiyqUr2MEoPWmWjV8;https://www.openstreetmap.org/relation/223437;Güneydoğu Anadolu;3.788.333;4.113.333;488;False;False;4477
-73;73;sirnak;570745;1343;https://goo.gl/maps/tDwsK4Y4kJZDpp55A;https://www.openstreetmap.org/relation/1751843;Güneydoğu Anadolu;3.751.667;4.246.667;486;False;False;7078
-74;74;bartin;207238;12;https://goo.gl/maps/kEA1uaXRs5h4Ys497;https://www.openstreetmap.org/relation/223458;Karadeniz;4.163.333;3.233.333;378;True;False;2330
+73;73;şırnak;570745;1343;https://goo.gl/maps/tDwsK4Y4kJZDpp55A;https://www.openstreetmap.org/relation/1751843;Güneydoğu Anadolu;3.751.667;4.246.667;486;False;False;7078
+74;74;bartın;207238;12;https://goo.gl/maps/kEA1uaXRs5h4Ys497;https://www.openstreetmap.org/relation/223458;Karadeniz;4.163.333;3.233.333;378;True;False;2330
 75;75;ardahan;92819;1799;https://goo.gl/maps/czPjzpGKZMS5hUgm9;https://www.openstreetmap.org/relation/1251450;Doğu Anadolu;4.110.833;42.7;478;False;False;4934
-76;76;igdir;209738;860;https://goo.gl/maps/4sTLXpYBHttBGPsdA;https://www.openstreetmap.org/relation/186434;Doğu Anadolu;3.991.667;4.403.333;476;False;False;3664
+76;76;ığdır;209738;860;https://goo.gl/maps/4sTLXpYBHttBGPsdA;https://www.openstreetmap.org/relation/186434;Doğu Anadolu;3.991.667;4.403.333;476;False;False;3664
 77;77;yalova;304780;8;https://goo.gl/maps/RtzU9F1fuhPVMFsm9;https://www.openstreetmap.org/relation/223472;Marmara;40.65;2.926.667;226;True;False;798
-78;78;karabuk;255242;264;https://goo.gl/maps/QMVjbUBH7Q7XHKcK9;https://www.openstreetmap.org/relation/223455;Karadeniz;41.2;3.263.333;370;False;False;4142
+78;78;karabük;255242;264;https://goo.gl/maps/QMVjbUBH7Q7XHKcK9;https://www.openstreetmap.org/relation/223455;Karadeniz;41.2;3.263.333;370;False;False;4142
 79;79;kilis;155179;660;https://goo.gl/maps/4qRGCoNwMNn9BJ8G8;https://www.openstreetmap.org/relation/223140;Güneydoğu Anadolu;3.671.667;3.711.667;348;False;False;1412
 80;80;osmaniye;557666;121;https://goo.gl/maps/UVsA8GVQDsxjUysN9;https://www.openstreetmap.org/relation/167232;Akdeniz;3.706.667;36.25;328;False;False;3320
-81;81;duzce;409865;149;https://goo.gl/maps/ypKm6p456SRRkSCd8;https://www.openstreetmap.org/relation/223460;Karadeniz;4.083.333;3.116.667;380;True;False;2492
+81;81;düzce;409865;149;https://goo.gl/maps/ypKm6p456SRRkSCd8;https://www.openstreetmap.org/relation/223460;Karadeniz;4.083.333;3.116.667;380;True;False;2492
