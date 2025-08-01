@@ -38,7 +38,7 @@ id;kodu;adi;nufus;rakim;googleMaps;openStreetMap;bolge;enlem;boylam;alankod;kıy
 37;37;kastamonu;388990;814;https://goo.gl/maps/SSFqej5quZyQ6uZn7;https://www.openstreetmap.org/relation/186431;Karadeniz;4.138.889;3.378.222;366;True;False;13064
 38;38;kayseri;1445683;1060;https://goo.gl/maps/A27qXKh2FCWEzTzr8;https://www.openstreetmap.org/relation/154451;İç Anadolu;3.873.111;3.547.889;352;False;False;16970
 39;39;kırklareli;377156;231;https://goo.gl/maps/v6PRExTopMCA2uhb6;https://www.openstreetmap.org/relation/223469;Marmara;4.173.333;2.721.667;288;True;False;6459
-40;40;kırsşehir;247179;991;https://goo.gl/maps/C7rn2oVtZDqz54HA7;https://www.openstreetmap.org/relation/154452#map=9/39.3111/34.0556;İç Anadolu;3.914.222;3.417.056;386;False;False;6584
+40;40;kırşehir;247179;991;https://goo.gl/maps/C7rn2oVtZDqz54HA7;https://www.openstreetmap.org/relation/154452#map=9/39.3111/34.0556;İç Anadolu;3.914.222;3.417.056;386;False;False;6584
 41;41;kocaeli;2102907;4;https://goo.gl/maps/PSVVkZbPKuEUrim67;https://www.openstreetmap.org/relation/223473;Marmara;4.076.667;2.991.667;262;True;True;3397
 42;42;konya;2320241;1023;https://goo.gl/maps/EMCU5es81LqioNid7;https://www.openstreetmap.org/relation/223133;İç Anadolu;3.786.667;3.248.333;332;False;True;40838
 43;43;kütahya;575674;958;https://goo.gl/maps/DsRnEr82a7fsJ1Xf8;https://www.openstreetmap.org/relation/223172;Ege;3.941.667;2.998.333;274;False;False;11634
@@ -80,3 +80,4 @@ id;kodu;adi;nufus;rakim;googleMaps;openStreetMap;bolge;enlem;boylam;alankod;kıy
 79;79;kilis;155179;660;https://goo.gl/maps/4qRGCoNwMNn9BJ8G8;https://www.openstreetmap.org/relation/223140;Güneydoğu Anadolu;3.671.667;3.711.667;348;False;False;1412
 80;80;osmaniye;557666;121;https://goo.gl/maps/UVsA8GVQDsxjUysN9;https://www.openstreetmap.org/relation/167232;Akdeniz;3.706.667;36.25;328;False;False;3320
 81;81;düzce;409865;149;https://goo.gl/maps/ypKm6p456SRRkSCd8;https://www.openstreetmap.org/relation/223460;Karadeniz;4.083.333;3.116.667;380;True;False;2492
+
